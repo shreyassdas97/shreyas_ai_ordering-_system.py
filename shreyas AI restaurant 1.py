@@ -134,7 +134,8 @@ if ask =='add':
 
         print(f"{item_units[ask_4]} × {ask_4} added to your order.")
         print(f"new total:{item_units[ask_4]} {ask_4},{chosen_items}")
-        print("neem ka patta kadwa hai varish khurana bhadwa hai")
+
+        
 exit_q=input("pls click 'enter' to exit ").lower
 
 
